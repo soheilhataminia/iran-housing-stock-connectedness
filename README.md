@@ -27,4 +27,5 @@ The analysis was conducted in EViews.
 
 ## License
 
-The replication code is released under the MIT License.
+Code: MIT License
+Data: CC BY 4.0
