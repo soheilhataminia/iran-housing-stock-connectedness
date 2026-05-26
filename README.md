@@ -8,7 +8,6 @@ This repository contains the replication data and EViews code for the paper:
 
 - `data/raw/data.xlsx`: monthly dataset used in the analysis
 - `eviews/01_main_replication.prg`: main EViews replication code
-- `output/`: generated tables and figures
 
 ## Data
 
